@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998893634842",
+    "project_id": "phone-number-auth-647ef",
+    "storage_bucket": "phone-number-auth-647ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998893634842:android:1e64617568720af17798a3",
+        "android_client_info": {
+          "package_name": "uz.revolution.phonenumauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998893634842-j7jru0lcj823si4a0go2es8j1k78r013.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Bcl95zWgZ0vNIZHx4GTjxscCovl657I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998893634842-j7jru0lcj823si4a0go2es8j1k78r013.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
